@@ -239,22 +239,7 @@
         "precio_venta": 45000,
         "existencia": 2000
     },
-    {
-        "codigo": 1016,
-        "marca": "Mercedes-Benz",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mercedes-Benz_Star_2022.svg/800px-Mercedes-Benz_Star_2022.svg.png",
-        "tipo": "Sedán 🚗",
-        "modelo": "Mercedes-Benz C-Class",
-        "caracteristicas": "Lujo y rendimiento en cada detalle",
-        "imagen": "https://tse4.mm.bing.net/th/id/OIP.UINL58JK7CZ8uI6_9YK7lwHaFj?rs=1&pid=ImgDetMain&o=7&rm=3",
-        "numeroPuertas": 4,
-        "motor": "2.0L",
-        "combustible": "Gasolina",
-        "categoria": "Lujo Premium",
-        "precio_compra": 45000,
-        "precio_venta": 48000,
-        "existencia": 2000
-    },
+
     {
         "codigo": 1017,
         "marca": "Tesla",
@@ -607,22 +592,7 @@
         "precio_venta": 85000,
         "existencia": 800
     },
-    {
-        "codigo": 1039,
-        "marca": "Mercedes-Benz",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mercedes-Benz_Star_2022.svg/800px-Mercedes-Benz_Star_2022.svg.png",        
-        "tipo": "SUV de lujo 🚙",
-        "modelo": "Mercedes-Benz G-Class",
-        "caracteristicas": "Motor V8, 577 hp, tracción total, lujo y rendimiento",
-        "imagen": "https://www.motortrend.com/uploads/sites/10/2019/04/2019-mercedes-benz-g-class-550-suv-angular-front.png",
-        "numeroPuertas": 5,
-        "motor": "4.0L V8 Biturbo",
-        "combustible": "Gasolina Premium",
-        "categoria": "SUV de lujo Gasolina",
-        "precio_compra": 130000,
-        "precio_venta": 160000,
-        "existencia": 1000
-    },
+  
     {
         "codigo": 1040,
         "marca": "Mercedes-Benz",
@@ -1378,6 +1348,7 @@
   }
       
 ]
+
 
 
 
