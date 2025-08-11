@@ -1272,11 +1272,11 @@
     "tipo": "Convertible 🌟",
     "modelo": "Lexus IS C",
     "caracteristicas": "Convertible, elegante, diseño premium",
-    "imagen": "https://65e81151f52e248c552b-fe74cd567ea2f1228f846834bd67571e.ssl.cf1.rackcdn.com/Lexus/Comparisons/2021-Lexus-IS-350-F-Sport-comp.png",
+    "imagen": "https://s1.cdn.autoevolution.com/images/gallery/LEXUS-IS-C-4043_32.jpg",
     "numeroPuertas": 2,
     "motor": "2.5L V6",
     "combustible": "Gasolina",
-    "categoria": "Convertible",
+    "categoria": "Convertible"
     "precio_compra": 50000,
     "precio_venta": 58000,
     "existencia": 90
@@ -1331,6 +1331,7 @@
   }
       
 ]
+
 
 
 
