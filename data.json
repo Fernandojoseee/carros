@@ -1,0 +1,182 @@
+[
+  {
+    "marca": "Ferrari",
+    "modelo": "488 GTB",
+    "categoria": "Deportivo Premium",
+    "tipo": "Coupé",
+    "iconoTipo": "🏎️",
+    "precio": 280000,
+    "imagen": "img/vehiculos/ferrari-488-gtb.png"
+  },
+  {
+    "marca": "Lamborghini",
+    "modelo": "Huracán EVO",
+    "categoria": "Deportivo Premium",
+    "tipo": "Coupé",
+    "iconoTipo": "🏎️",
+    "precio": 320000,
+    "imagen": "img/vehiculos/lamborghini-huracan-evo.png"
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "911 Turbo S",
+    "categoria": "Deportivo Premium",
+    "tipo": "Coupé",
+    "iconoTipo": "🏎️",
+    "precio": 230000,
+    "imagen": "img/vehiculos/porsche-911-turbo-s.png"
+  },
+  {
+    "marca": "McLaren",
+    "modelo": "720S",
+    "categoria": "Deportivo Premium",
+    "tipo": "Coupé",
+    "iconoTipo": "🏎️",
+    "precio": 310000,
+    "imagen": "img/vehiculos/mclaren-720s.png"
+  },
+  {
+    "marca": "Bugatti",
+    "modelo": "Chiron",
+    "categoria": "Hiperauto",
+    "tipo": "Coupé",
+    "iconoTipo": "🏎️",
+    "precio": 3000000,
+    "imagen": "img/vehiculos/bugatti-chiron.png"
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Corvette C8",
+    "categoria": "Deportivo",
+    "tipo": "Coupé",
+    "iconoTipo": "🏎️",
+    "precio": 65000,
+    "imagen": "img/vehiculos/chevrolet-corvette-c8.png"
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Mustang Shelby GT500",
+    "categoria": "Deportivo",
+    "tipo": "Coupé",
+    "iconoTipo": "🏎️",
+    "precio": 75000,
+    "imagen": "img/vehiculos/ford-mustang-shelby-gt500.png"
+  },
+  {
+    "marca": "Dodge",
+    "modelo": "Challenger SRT Hellcat",
+    "categoria": "Muscle Car",
+    "tipo": "Coupé",
+    "iconoTipo": "🏎️",
+    "precio": 72000,
+    "imagen": "img/vehiculos/dodge-challenger-srt-hellcat.png"
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "GT-R Nismo",
+    "categoria": "Deportivo",
+    "tipo": "Coupé",
+    "iconoTipo": "🏎️",
+    "precio": 210000,
+    "imagen": "img/vehiculos/nissan-gtr-nismo.png"
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "GR Supra",
+    "categoria": "Deportivo",
+    "tipo": "Coupé",
+    "iconoTipo": "🏎️",
+    "precio": 56000,
+    "imagen": "img/vehiculos/toyota-gr-supra.png"
+  },
+  {
+    "marca": "BMW",
+    "modelo": "M4 Competition",
+    "categoria": "Deportivo Premium",
+    "tipo": "Coupé",
+    "iconoTipo": "🏎️",
+    "precio": 78000,
+    "imagen": "img/vehiculos/bmw-m4-competition.png"
+  },
+  {
+    "marca": "Audi",
+    "modelo": "R8 V10 Plus",
+    "categoria": "Deportivo Premium",
+    "tipo": "Coupé",
+    "iconoTipo": "🏎️",
+    "precio": 170000,
+    "imagen": "img/vehiculos/audi-r8-v10-plus.png"
+  },
+  {
+    "marca": "Mercedes-Benz",
+    "modelo": "AMG GT R",
+    "categoria": "Deportivo Premium",
+    "tipo": "Coupé",
+    "iconoTipo": "🏎️",
+    "precio": 160000,
+    "imagen": "img/vehiculos/mercedes-amg-gtr.png"
+  },
+  {
+    "marca": "Jaguar",
+    "modelo": "F-Type R",
+    "categoria": "Deportivo",
+    "tipo": "Coupé",
+    "iconoTipo": "🏎️",
+    "precio": 105000,
+    "imagen": "img/vehiculos/jaguar-f-type-r.png"
+  },
+  {
+    "marca": "Aston Martin",
+    "modelo": "Vantage",
+    "categoria": "Deportivo Premium",
+    "tipo": "Coupé",
+    "iconoTipo": "🏎️",
+    "precio": 150000,
+    "imagen": "img/vehiculos/aston-martin-vantage.png"
+  },
+  {
+    "marca": "Lotus",
+    "modelo": "Evora GT",
+    "categoria": "Deportivo",
+    "tipo": "Coupé",
+    "iconoTipo": "🏎️",
+    "precio": 95000,
+    "imagen": "img/vehiculos/lotus-evora-gt.png"
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "RX-7 Spirit R",
+    "categoria": "Deportivo Clásico",
+    "tipo": "Coupé",
+    "iconoTipo": "🏎️",
+    "precio": 45000,
+    "imagen": "img/vehiculos/mazda-rx7-spirit-r.png"
+  },
+  {
+    "marca": "Subaru",
+    "modelo": "BRZ STI",
+    "categoria": "Deportivo",
+    "tipo": "Coupé",
+    "iconoTipo": "🏎️",
+    "precio": 35000,
+    "imagen": "img/vehiculos/subaru-brz-sti.png"
+  },
+  {
+    "marca": "Alfa Romeo",
+    "modelo": "4C Spider",
+    "categoria": "Deportivo Premium",
+    "tipo": "Convertible",
+    "iconoTipo": "🏎️",
+    "precio": 70000,
+    "imagen": "img/vehiculos/alfa-romeo-4c-spider.png"
+  },
+  {
+    "marca": "Tesla",
+    "modelo": "Roadster",
+    "categoria": "Deportivo Eléctrico",
+    "tipo": "Coupé",
+    "iconoTipo": "⚡",
+    "precio": 200000,
+    "imagen": "img/vehiculos/tesla-roadster.png"
+  }
+]
