@@ -592,23 +592,6 @@
         "precio_venta": 85000,
         "existencia": 800
     },
-  
-    {
-        "codigo": 1040,
-        "marca": "Mercedes-Benz",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mercedes-Benz_Star_2022.svg/800px-Mercedes-Benz_Star_2022.svg.png",
-        "tipo": "Sedán de lujo 🚗",
-        "modelo": "Mercedes-Benz S-Class",
-        "caracteristicas": "Motor V8, 496 hp, tecnología avanzada, interior de lujo",
-        "imagen": "https://www.motortrend.com/uploads/sites/10/2019/12/2020-mercedes-benz-s-class-s450-sedan-angular-front.png",
-        "numeroPuertas": 4,
-        "motor": "4.0L V8 Biturbo",
-        "combustible": "Gasolina Premium",
-        "categoria": "Sedán de lujo Gasolina",
-        "precio_compra": 120000,
-        "precio_venta": 150000,
-        "existencia": 800
-    },
     {
         "codigo": 1041,
         "marca": "Mercedes-Benz",
@@ -1348,6 +1331,7 @@
   }
       
 ]
+
 
 
 
