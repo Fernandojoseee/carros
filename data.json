@@ -1266,22 +1266,6 @@
     "existencia": 80
   },
   {
-    "codigo": 1082,
-    "marca": "Lexus",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Lexus_division_emblem.svg/1200px-Lexus_division_emblem.svg.png",
-    "tipo": "Convertible 🌟",
-    "modelo": "Lexus IS C",
-    "caracteristicas": "Convertible, elegante, diseño premium",
-    "imagen": "https://s1.cdn.autoevolution.com/images/gallery/LEXUS-IS-C-4043_32.jpg",
-    "numeroPuertas": 2,
-    "motor": "2.5L V6",
-    "combustible": "Gasolina",
-    "categoria": "Convertible",
-    "precio_compra": 50000,
-    "precio_venta": 58000,
-    "existencia": 90
-  },
-      {
     "codigo": 1083,
     "marca": "Bugatti",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bugatti_logo.svg/2560px-Bugatti_logo.svg.png",
@@ -1331,6 +1315,7 @@
   }
       
 ]
+
 
 
 
