@@ -1276,7 +1276,7 @@
     "numeroPuertas": 2,
     "motor": "2.5L V6",
     "combustible": "Gasolina",
-    "categoria": "Convertible"
+    "categoria": "Convertible",
     "precio_compra": 50000,
     "precio_venta": 58000,
     "existencia": 90
@@ -1331,6 +1331,7 @@
   }
       
 ]
+
 
 
 
